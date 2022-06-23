@@ -1,7 +1,7 @@
 from perlin_noise import PerlinNoise
 import json
 
-size = 24
+size = 32
 num_sensors = 2
 
 shape = (1024,1024)
